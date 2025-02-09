@@ -21,7 +21,7 @@ Assurez-vous que Python 3.10 ou une version ultérieure est installé sur votre 
 ### Installation
 1. Cloner le repository:
     ```bash
-    git clone https://github.com/Op27/llama3-groq-streamlit.git
+    git clone https://github.com/boubakarabd/chatbot_educatif.git
     ```
 
 2. Installer les packages python nécessaires :
